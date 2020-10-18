@@ -1611,3 +1611,59 @@
 2020.10.18-14:09:16 [MAIN] [INFO] :         Abfrage Erfolgreich das Programm legt sich schlafen
 2020.10.18-14:09:16 [MAIN] [INFO] :         Alles läuft perfekt
 2020.10.18-14:09:46 [MAIN] [INFO] :         Beende das Programm
+2020.10.18-15:02:53 [MAIN] [DEBUG] :        Programmstart
+2020.10.18-15:02:53 [MANAGER] [INFO] :      Manager wird Inizialisiert
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage Plaue
+2020.10.18-15:02:53 [AF PLAUE] [INFO] :     Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage ArnstadtHBF
+2020.10.18-15:02:53 [AF ARNSTADTHBF] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage ErfurtHBF
+2020.10.18-15:02:53 [AF ERFURTHBF] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage ErfurtBisch
+2020.10.18-15:02:53 [AF ERFURTBISCH] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage Haarhausen
+2020.10.18-15:02:53 [AF HAARHAUSEN] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage Sülzebrücken
+2020.10.18-15:02:53 [AF SÜLZEBRÜCKEN] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage Neudietendorf
+2020.10.18-15:02:53 [AF NEUDIETENDORF] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [DEBUG] :     Erstelle Abfrage ArnstadtSüd
+2020.10.18-15:02:53 [AF ARNSTADTSÜD] [INFO] : Inizialisiere Abfrage
+2020.10.18-15:02:53 [MANAGER] [INFO] :      Inizialisierung Abgeschlossen
+2020.10.18-15:02:53 [MAIN] [INFO] :         Inizialisierung beendet
+2020.10.18-15:02:53 [MANAGER] [INFO] :      Starte Durchlauf
+2020.10.18-15:02:53 [AF PLAUE] [DEBUG] :    Starte Abfrage
+2020.10.18-15:02:53 [AF PLAUE] [DEBUG] :    Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:53 [AF PLAUE] [INFO] :     Abfrage Beendet <Response [200]>
+2020.10.18-15:02:53 [LG PLAUE] [INFO] :     Gefundene Abfahrten/Ankünfte 1
+2020.10.18-15:02:53 [AF ARNSTADTHBF] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:54 [AF ARNSTADTHBF] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:54 [AF ARNSTADTHBF] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:54 [LG ARNSTADTHBF] [INFO] : Gefundene Abfahrten/Ankünfte 3
+2020.10.18-15:02:54 [AF ERFURTHBF] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:54 [AF ERFURTHBF] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:54 [AF ERFURTHBF] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:54 [LG ERFURTHBF] [INFO] : Gefundene Abfahrten/Ankünfte 13
+2020.10.18-15:02:54 [AF ERFURTBISCH] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:55 [AF ERFURTBISCH] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:55 [AF ERFURTBISCH] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:55 [LG ERFURTBISCH] [INFO] : Gefundene Abfahrten/Ankünfte 2
+2020.10.18-15:02:55 [AF HAARHAUSEN] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:55 [AF HAARHAUSEN] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:55 [AF HAARHAUSEN] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:55 [LG HAARHAUSEN] [INFO] : Gefundene Abfahrten/Ankünfte 2
+2020.10.18-15:02:55 [AF SÜLZEBRÜCKEN] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:55 [AF SÜLZEBRÜCKEN] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:55 [AF SÜLZEBRÜCKEN] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:55 [LG SÜLZEBRÜCKEN] [INFO] : Gefundene Abfahrten/Ankünfte 1
+2020.10.18-15:02:55 [AF NEUDIETENDORF] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:56 [AF NEUDIETENDORF] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:56 [AF NEUDIETENDORF] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:56 [LG NEUDIETENDORF] [INFO] : Gefundene Abfahrten/Ankünfte 4
+2020.10.18-15:02:56 [AF ARNSTADTSÜD] [DEBUG] : Starte Abfrage
+2020.10.18-15:02:56 [AF ARNSTADTSÜD] [DEBUG] : Abfrage Erfolgreich im Anlauf 1
+2020.10.18-15:02:56 [AF ARNSTADTSÜD] [INFO] : Abfrage Beendet <Response [200]>
+2020.10.18-15:02:56 [LG ARNSTADTSÜD] [INFO] : Gefundene Abfahrten/Ankünfte 2
+2020.10.18-15:02:56 [MAIN] [INFO] :         Abfrage Erfolgreich das Programm legt sich schlafen
+2020.10.18-15:02:56 [MAIN] [INFO] :         Alles läuft perfekt
+2020.10.18-15:03:03 [MAIN] [INFO] :         Beende das Programm
