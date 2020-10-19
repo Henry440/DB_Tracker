@@ -6,6 +6,14 @@ LOOK_BEHIND = 60 * 45
 STATIONEN = "files/stations.csv"
 OUTPUT = "out/Daten.csv"
 
+# JSON TAGGS
+# NAME = ([HEADDER KEY], [[KEY 1], [KEY 2], [KEY 3], ...., [KEY N]])
+TAG_GENERAL = ([], [])
+TAG_ANKUNFT = (["arrival"], [])
+TAG_ABFAHRT = (["depature"],[])
+
+TAGS = [TAG_GENERAL, TAG_ANKUNFT, TAG_ABFAHRT]
+
 # Requests
 USE_TOR = False
 UPDATE_TOR = 2 #Restart Tor nach n Zyklusen (Linux Only)
