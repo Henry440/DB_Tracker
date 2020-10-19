@@ -6,6 +6,7 @@ if USE_TOR:
 from logger import logger
 from jsonParser import parser
 import emergencyMailere
+from writer import writer
 
 from time import sleep
 import requests
@@ -44,6 +45,8 @@ class manager():
                     handler = parser(content, x.station)
                     try:
                         datas = handler.manage()
+                        wr = writer(x.station)
+                        wr.writer(datas)
                     except Exception as e:
                         self.LOGGER.log(f"Fehler beim Verarbeiten : {e}", 2)
             self.zyklus = self.zyklus + 1

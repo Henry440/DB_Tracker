@@ -1,5 +1,5 @@
 from logger import logger
-from files.configs import TAG_ZUG, TAG_ABFAHRT, TAG_ANKUNFT, TAG_GENERAL, TAGS
+from files.configs import TAG_ZUG, TAG_ABFAHRT, TAG_ANKUNFT, TAG_GENERAL, TAGS, TAG_STATION
 
 import json
 
@@ -7,6 +7,7 @@ class parser():
 
     def __init__(self, content, name):
         self.LOGGER = logger(f"LG {name}")
+        self.name = name
         self.content = content["lookbehind"] #Alle Daten einer Station 
         self.zuege = []                      #Beinhaltet Daten sortiert nach zug
         for i in self.content:
@@ -27,7 +28,7 @@ class parser():
         if(tag[0] != []):
             try:
                 zug = zug[tag[0][0]]
-            except Exception as e:
+            except Exception:
                 return self.fixMissing(tag)#Der Headdertag existiert nicht!!!!, Alles als NA buchen
         for i in tag[1]:
             try:

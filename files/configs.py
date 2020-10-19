@@ -8,12 +8,13 @@ OUTPUT = "out/Daten.csv"
 
 # JSON TAGGS
 # NAME = ([HEADDER KEY], [[KEY 1], [KEY 2], [KEY 3], ...., [KEY N]])
+TAG_STATION = (["currentStation"], ["title", "id"])
 TAG_GENERAL = ([], ["o", "initialDeparture", "scheduledDestination", "lineNumber", "id", "rawId", "mediumId", "destination", "platform", "scheduledPlatform", "cancelled"])
 TAG_ANKUNFT = (["arrival"], ["scheduledTime", "time", "platform", "scheduledPlatform", "hidden", "cancelled", "delay"])
 TAG_ABFAHRT = (["departure"],["scheduledTime", "time", "platform", "scheduledPlatform", "hidden", "cancelled", "delay"])
 TAG_ZUG     = (["train"],["longDistance", "name", "number", "type"])
 
-TAGS = [TAG_GENERAL, TAG_ANKUNFT, TAG_ABFAHRT, TAG_ZUG]
+TAGS = [TAG_STATION, TAG_GENERAL, TAG_ANKUNFT, TAG_ABFAHRT, TAG_ZUG]
 
 # Requests
 USE_TOR = False
