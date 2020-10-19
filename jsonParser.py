@@ -19,14 +19,18 @@ class parser():
         ret = []
         return ret
 
-    def getKeys(self, tag):
+    def getKeys(self, tag, zug):
         ret = []
         return ret
 
     def manage(self):
-        json_datas_raw = []
-        for i in TAGS:
-            datas = []
-            datas = self.getKeys(i)
-            datas = self.fixMissing(i, datas)
-            json_datas_raw.append(datas)
+        out = []
+        for zug in self.zuege:
+            zeile = []
+            for i in TAGS:
+                datas = []
+                datas = self.getKeys(i, zug)
+                datas = self.fixMissing(i, datas)
+                for dat in datas:
+                    zeile.append(dat)
+            out.append(zeile)
