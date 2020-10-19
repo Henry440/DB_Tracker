@@ -1,0 +1,4950 @@
+	
+departures	
+0	
+o	"800487"
+initialDeparture	1603081380000
+arrival	
+scheduledTime	1603085880000
+time	1603087080000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+cancelled	false
+delay	20
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"55"
+id	"3317777341379049157"
+rawId	"-3317777341379049157-2010190623-11"
+mediumId	"3317777341379049157-2010190623"
+substitute	false
+train	
+longDistance	false
+name	"RE 55"
+number	"16553"
+line	"55"
+type	"RE"
+messages	
+delay	
+0	
+text	"Verspätung aus vorheriger Fahrt"
+timestamp	1603081680000
+qos	[]
+him	[]
+route	
+0	
+name	"Nordhausen"
+1	
+name	"Wolkramshausen"
+2	
+name	"Sondershausen"
+3	
+name	"Greußen"
+4	
+name	"Straußfurt"
+5	
+name	"Ringleben-Gebesee"
+6	
+name	"Walschleben"
+7	
+name	"Kühnhausen"
+8	
+name	"Erfurt-Gispersleben"
+9	
+name	"Erfurt Nord"
+10	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+1	
+o	"EB"
+initialDeparture	1603085880000
+departure	
+scheduledTime	1603085880000
+time	1603085880000
+wingIds	
+0	"2009118976866298655-2010190738"
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Saalfeld (Saale)"
+lineNumber	"23"
+id	"664421456701661978"
+rawId	"-664421456701661978-2010190738-1"
+mediumId	"664421456701661978-2010190738"
+substitute	false
+train	
+longDistance	false
+name	"EB 23"
+number	"80979"
+line	"23"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Marlishausen"
+7	
+name	"Niederwillingen"
+8	
+name	"Stadtilm"
+9	
+name	"Singen (Thür)"
+10	
+name	"Rottenbach"
+11	
+name	"Bad Blankenburg (Thüringerw)"
+12	
+name	"Saalfeld (Saale)"
+destination	"Saalfeld (Saale)"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+2	
+o	"8004NT"
+initialDeparture	1603083840000
+arrival	
+scheduledTime	1603086000000
+time	1603086000000
+platform	"2"
+scheduledPlatform	"2"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"3"
+id	"677261285717060599"
+rawId	"677261285717060599-2010190704-4"
+mediumId	"677261285717060599-2010190704"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3952"
+line	"3"
+type	"RE"
+messages	
+delay	[]
+qos	
+0	
+text	"Ein Wagen fehlt"
+timestamp	1603068240000
+him	[]
+route	
+0	
+name	"Jena-Göschwitz"
+1	
+name	"Jena West"
+2	
+name	"Weimar"
+3	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"2"
+scheduledPlatform	"2"
+auslastung	false
+reihung	false
+hiddenReihung	true
+3	
+o	"80"
+initialDeparture	1603076220000
+arrival	
+scheduledTime	1603086000000
+time	1603086000000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603086300000
+time	1603086300000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"München Hbf"
+id	"7202919247926513511"
+rawId	"-7202919247926513511-2010190457-5"
+mediumId	"7202919247926513511-2010190457"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1001"
+number	"1001"
+type	"ICE"
+messages	
+delay	[]
+qos	
+0	
+text	"Abweichende Wagenreihung"
+timestamp	1603074420000
+him	[]
+cancelled	false
+route	
+0	
+name	"Berlin Gesundbrunnen"
+1	
+name	"Berlin Hbf  (tief)"
+2	
+name	"Berlin Südkreuz"
+3	
+name	"Halle (Saale) Hbf"
+4	
+name	"Erfurt Hbf"
+cancelled	false
+5	
+name	"Nürnberg Hbf"
+showVia	true
+6	
+name	"München Hbf"
+destination	"München Hbf"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	true
+reihung	true
+hiddenReihung	false
+4	
+o	"SB"
+initialDeparture	1603081680000
+arrival	
+scheduledTime	1603086480000
+time	1603086480000
+platform	"6"
+scheduledPlatform	"6"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"44"
+id	"8700576543869682232"
+rawId	"-8700576543869682232-2010190628-17"
+mediumId	"8700576543869682232-2010190628"
+substitute	false
+train	
+longDistance	false
+name	"STB 44"
+number	"81276"
+line	"44"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Grimmenthal"
+1	
+name	"Rohr (Thür)"
+2	
+name	"Dietzhausen"
+3	
+name	"Suhl-Heinrichs"
+4	
+name	"Suhl"
+5	
+name	"Zella-Mehlis"
+6	
+name	"Gehlberg"
+7	
+name	"Dörrberg"
+8	
+name	"Gräfenroda"
+9	
+name	"Plaue (Thür)"
+10	
+name	"Arnstadt Süd"
+11	
+name	"Arnstadt Hbf"
+12	
+name	"Haarhausen"
+13	
+name	"Sülzenbrücken"
+14	
+name	"Neudietendorf"
+15	
+name	"Erfurt-Bischleben"
+16	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"6"
+scheduledPlatform	"6"
+auslastung	false
+reihung	false
+hiddenReihung	false
+5	
+o	"AMRB"
+initialDeparture	1603082460000
+arrival	
+scheduledTime	1603086660000
+time	1603086720000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"59"
+id	"5720924186831453007"
+rawId	"5720924186831453007-2010190641-15"
+mediumId	"5720924186831453007-2010190641"
+substitute	false
+train	
+longDistance	false
+name	"RB 59"
+number	"74584"
+line	"59"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Sangerhausen"
+1	
+name	"Oberröblingen"
+2	
+name	"Voigtstedt"
+3	
+name	"Artern"
+4	
+name	"Reinsdorf (Artern)"
+5	
+name	"Bretleben"
+6	
+name	"Heldrungen"
+7	
+name	"Etzleben"
+8	
+name	"Griefstedt"
+9	
+name	"Leubingen"
+10	
+name	"Sömmerda"
+11	
+name	"Großrudestedt"
+12	
+name	"Stotternheim"
+13	
+name	"Erfurt Ost"
+14	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+6	
+o	"8004NT"
+initialDeparture	1603080240000
+arrival	
+scheduledTime	1603086660000
+time	1603086660000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603086720000
+time	1603086780000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Glauchau (Sachs)"
+lineNumber	"1"
+id	"947756859687964101"
+rawId	"947756859687964101-2010190604-9"
+mediumId	"947756859687964101-2010190604"
+substitute	false
+train	
+longDistance	false
+name	"RE 1"
+number	"3655"
+line	"1"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Göttingen"
+1	
+name	"Heilbad Heiligenstadt"
+2	
+name	"Leinefelde"
+3	
+name	"Silberhausen"
+4	
+name	"Mühlhausen (Thür)"
+5	
+name	"Bad Langensalza"
+6	
+name	"Gotha"
+7	
+name	"Neudietendorf"
+8	
+name	"Erfurt Hbf"
+cancelled	false
+9	
+name	"Weimar"
+showVia	true
+10	
+name	"Jena West"
+showVia	true
+11	
+name	"Jena-Göschwitz"
+12	
+name	"Stadtroda"
+13	
+name	"Hermsdorf-Klosterlausnitz"
+14	
+name	"Gera Hbf"
+showVia	true
+15	
+name	"Gera Süd"
+16	
+name	"Ronneburg (Thür)"
+17	
+name	"Schmölln (Thür)"
+18	
+name	"Gößnitz"
+19	
+name	"Meerane"
+20	
+name	"Glauchau (Sachs)"
+destination	"Glauchau (Sachs)"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	false
+reihung	false
+hiddenReihung	true
+7	
+o	"AMRB"
+initialDeparture	1603081140000
+arrival	
+scheduledTime	1603087080000
+time	1603087080000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603087200000
+time	1603087200000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Eisenach"
+lineNumber	"20"
+id	"8975994796110168766"
+rawId	"8975994796110168766-2010190619-23"
+mediumId	"8975994796110168766-2010190619"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74606"
+line	"20"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Leipzig Hbf"
+1	
+name	"Leipzig-Möckern"
+2	
+name	"Leipzig-Leutzsch"
+3	
+name	"Leipzig-Rückmarsdorf"
+4	
+name	"Leipzig-Miltitz"
+5	
+name	"Markranstädt"
+6	
+name	"Großlehna"
+7	
+name	"Kötzschau"
+8	
+name	"Bad Dürrenberg"
+9	
+name	"Großkorbetha"
+10	
+name	"Weißenfels"
+11	
+name	"Leißling"
+12	
+name	"Naumburg (Saale) Hbf"
+13	
+name	"Bad Kösen"
+14	
+name	"Großheringen"
+15	
+name	"Bad Sulza"
+16	
+name	"Niedertrebra"
+17	
+name	"Apolda"
+18	
+name	"Oßmannstedt"
+19	
+name	"Weimar"
+20	
+name	"Hopfgarten (Weimar)"
+21	
+name	"Vieselbach"
+22	
+name	"Erfurt Hbf"
+cancelled	false
+23	
+name	"Erfurt-Bischleben"
+showVia	true
+24	
+name	"Neudietendorf"
+showVia	true
+25	
+name	"Wandersleben"
+showVia	true
+26	
+name	"Seebergen"
+27	
+name	"Gotha"
+28	
+name	"Fröttstädt"
+29	
+name	"Mechterstädt"
+30	
+name	"Sättelstädt"
+31	
+name	"Schönau (Hörsel)"
+32	
+name	"Wutha"
+33	
+name	"Eisenach"
+destination	"Eisenach"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+8	
+o	"AMRB"
+initialDeparture	1603084380000
+arrival	
+scheduledTime	1603087140000
+time	1603087200000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+cancelled	false
+delay	1
+departure	
+scheduledTime	1603087260000
+time	1603087260000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Leipzig Hbf"
+lineNumber	"20"
+id	"8111475277875488150"
+rawId	"-8111475277875488150-2010190713-12"
+mediumId	"8111475277875488150-2010190713"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74611"
+line	"20"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Eisenach"
+1	
+name	"Wutha"
+2	
+name	"Schönau (Hörsel)"
+3	
+name	"Sättelstädt"
+4	
+name	"Mechterstädt"
+5	
+name	"Fröttstädt"
+6	
+name	"Gotha"
+7	
+name	"Seebergen"
+8	
+name	"Wandersleben"
+9	
+name	"Neudietendorf"
+10	
+name	"Erfurt-Bischleben"
+11	
+name	"Erfurt Hbf"
+cancelled	false
+12	
+name	"Vieselbach"
+showVia	true
+13	
+name	"Hopfgarten (Weimar)"
+showVia	true
+14	
+name	"Weimar"
+15	
+name	"Oßmannstedt"
+16	
+name	"Apolda"
+17	
+name	"Niedertrebra"
+18	
+name	"Bad Sulza"
+19	
+name	"Großheringen"
+20	
+name	"Bad Kösen"
+21	
+name	"Naumburg (Saale) Hbf"
+showVia	true
+22	
+name	"Leißling"
+23	
+name	"Weißenfels"
+24	
+name	"Großkorbetha"
+25	
+name	"Bad Dürrenberg"
+26	
+name	"Kötzschau"
+27	
+name	"Großlehna"
+28	
+name	"Markranstädt"
+29	
+name	"Leipzig-Miltitz"
+30	
+name	"Leipzig-Rückmarsdorf"
+31	
+name	"Leipzig-Leutzsch"
+32	
+name	"Leipzig-Möckern"
+33	
+name	"Leipzig Hbf"
+destination	"Leipzig Hbf"
+platform	"8a"
+scheduledPlatform	"8a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+9	
+o	"800487"
+initialDeparture	1603087320000
+departure	
+scheduledTime	1603087320000
+time	1603087320000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Nordhausen"
+lineNumber	"55"
+id	"7861937690956949154"
+rawId	"7861937690956949154-2010190802-1"
+mediumId	"7861937690956949154-2010190802"
+substitute	false
+train	
+longDistance	false
+name	"RE 55"
+number	"16554"
+line	"55"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt Nord"
+showVia	true
+2	
+name	"Erfurt-Gispersleben"
+showVia	true
+3	
+name	"Kühnhausen"
+showVia	true
+4	
+name	"Walschleben"
+5	
+name	"Ringleben-Gebesee"
+6	
+name	"Straußfurt"
+7	
+name	"Greußen"
+8	
+name	"Sondershausen"
+9	
+name	"Wolkramshausen"
+10	
+name	"Nordhausen"
+destination	"Nordhausen"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+10	
+o	"SBX"
+initialDeparture	1603087560000
+departure	
+scheduledTime	1603087560000
+time	1603087560000
+platform	"6"
+scheduledPlatform	"6"
+hidden	false
+cancelled	false
+delay	0
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Meiningen"
+lineNumber	"50"
+id	"8150480176270332614"
+rawId	"-8150480176270332614-2010190806-1"
+mediumId	"8150480176270332614-2010190806"
+substitute	false
+train	
+longDistance	false
+name	"STx 50"
+number	"81083"
+line	"50"
+type	"STx"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Neudietendorf"
+showVia	true
+2	
+name	"Arnstadt Hbf"
+showVia	true
+3	
+name	"Arnstadt Süd"
+4	
+name	"Plaue (Thür)"
+5	
+name	"Gräfenroda"
+6	
+name	"Zella-Mehlis"
+7	
+name	"Suhl"
+8	
+name	"Grimmenthal"
+9	
+name	"Meiningen"
+destination	"Meiningen"
+platform	"6"
+scheduledPlatform	"6"
+auslastung	false
+reihung	false
+hiddenReihung	false
+11	
+o	"AMRB"
+initialDeparture	1603087740000
+departure	
+scheduledTime	1603087740000
+time	1603087740000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Sangerhausen"
+lineNumber	"59"
+id	"1558762389297820728"
+rawId	"1558762389297820728-2010190809-1"
+mediumId	"1558762389297820728-2010190809"
+substitute	false
+train	
+longDistance	false
+name	"RB 59"
+number	"74563"
+line	"59"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt Ost"
+showVia	true
+2	
+name	"Stotternheim"
+showVia	true
+3	
+name	"Großrudestedt"
+showVia	true
+4	
+name	"Sömmerda"
+5	
+name	"Leubingen"
+6	
+name	"Griefstedt"
+7	
+name	"Etzleben"
+8	
+name	"Heldrungen"
+9	
+name	"Bretleben"
+10	
+name	"Artern"
+11	
+name	"Sangerhausen"
+destination	"Sangerhausen"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+12	
+o	"8004NT"
+initialDeparture	1603080420000
+arrival	
+scheduledTime	1603087620000
+time	1603087620000
+wingIds	
+0	"7426840100819786819-2010190616"
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603087800000
+time	1603087860000
+wingIds	
+0	"7426840100819786819-2010190616"
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Göttingen"
+lineNumber	"1"
+id	"9052655516903066597"
+rawId	"9052655516903066597-2010190607-13"
+mediumId	"9052655516903066597-2010190607"
+substitute	false
+train	
+longDistance	false
+name	"RE 1"
+number	"3654"
+line	"1"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Glauchau (Sachs)"
+1	
+name	"Meerane"
+2	
+name	"Gößnitz"
+3	
+name	"Schmölln (Thür)"
+4	
+name	"Ronneburg (Thür)"
+5	
+name	"Gera Süd"
+6	
+name	"Gera Hbf"
+7	
+name	"Hermsdorf-Klosterlausnitz"
+8	
+name	"Stadtroda"
+9	
+name	"Jena-Göschwitz"
+10	
+name	"Jena West"
+11	
+name	"Weimar"
+12	
+name	"Erfurt Hbf"
+cancelled	false
+13	
+name	"Neudietendorf"
+showVia	true
+14	
+name	"Gotha"
+showVia	true
+15	
+name	"Bad Langensalza"
+showVia	true
+16	
+name	"Mühlhausen (Thür)"
+17	
+name	"Leinefelde"
+18	
+name	"Heilbad Heiligenstadt"
+19	
+name	"Göttingen"
+destination	"Göttingen"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	false
+reihung	false
+hiddenReihung	true
+13	
+o	"80"
+initialDeparture	1603079820000
+arrival	
+scheduledTime	1603087740000
+time	1603087740000
+platform	"2"
+scheduledPlatform	"2"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603087860000
+time	1603087860000
+platform	"2"
+scheduledPlatform	"2"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Berlin Gesundbrunnen"
+id	"5904039450601184262"
+rawId	"-5904039450601184262-2010190557-3"
+mediumId	"5904039450601184262-2010190557"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1008"
+number	"1008"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"München Hbf"
+1	
+name	"Nürnberg Hbf"
+2	
+name	"Erfurt Hbf"
+cancelled	false
+3	
+name	"Halle (Saale) Hbf"
+showVia	true
+4	
+name	"Berlin Südkreuz"
+5	
+name	"Berlin Hbf  (tief)"
+showVia	true
+6	
+name	"Berlin Gesundbrunnen"
+destination	"Berlin Gesundbrunnen"
+platform	"2"
+scheduledPlatform	"2"
+auslastung	true
+reihung	true
+hiddenReihung	false
+14	
+o	"80"
+initialDeparture	1603081140000
+arrival	
+scheduledTime	1603088100000
+time	1603088100000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603088220000
+time	1603088220000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Frankfurt (Main) Hbf"
+id	"3876736263946883288"
+rawId	"-3876736263946883288-2010190619-5"
+mediumId	"3876736263946883288-2010190619"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1654"
+number	"1654"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Dresden Hbf"
+1	
+name	"Dresden-Neustadt"
+2	
+name	"Riesa"
+3	
+name	"Leipzig Hbf"
+4	
+name	"Erfurt Hbf"
+cancelled	false
+5	
+name	"Frankfurt (Main) Hbf"
+destination	"Frankfurt (Main) Hbf"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	true
+reihung	true
+hiddenReihung	false
+15	
+o	"EB"
+initialDeparture	1603084320000
+arrival	
+scheduledTime	1603088220000
+time	1603088220000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"23"
+id	"8752392188910950385"
+rawId	"8752392188910950385-2010190712-13"
+mediumId	"8752392188910950385-2010190712"
+substitute	false
+train	
+longDistance	false
+name	"EB 23"
+number	"80978"
+line	"23"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Saalfeld (Saale)"
+1	
+name	"Bad Blankenburg (Thüringerw)"
+2	
+name	"Rottenbach"
+3	
+name	"Singen (Thür)"
+4	
+name	"Stadtilm"
+5	
+name	"Niederwillingen"
+6	
+name	"Marlishausen"
+7	
+name	"Arnstadt Hbf"
+8	
+name	"Haarhausen"
+9	
+name	"Sülzenbrücken"
+10	
+name	"Neudietendorf"
+11	
+name	"Erfurt-Bischleben"
+12	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+16	
+o	"SB"
+initialDeparture	1603084680000
+arrival	
+scheduledTime	1603088220000
+time	1603088220000
+wingIds	
+0	"8752392188910950385-2010190712"
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"46"
+id	"1660776532370594953"
+rawId	"-1660776532370594953-2010190718-14"
+mediumId	"1660776532370594953-2010190718"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81194"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Ilmenau"
+1	
+name	"Ilmenau Pörlitzer Höhe"
+2	
+name	"Ilmenau-Roda"
+3	
+name	"Elgersburg"
+4	
+name	"Geraberg"
+5	
+name	"Martinroda"
+6	
+name	"Plaue (Thür)"
+7	
+name	"Arnstadt Süd"
+8	
+name	"Arnstadt Hbf"
+9	
+name	"Haarhausen"
+10	
+name	"Sülzenbrücken"
+11	
+name	"Neudietendorf"
+12	
+name	"Erfurt-Bischleben"
+13	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+17	
+o	"AMRE"
+initialDeparture	1603082700000
+arrival	
+scheduledTime	1603088400000
+time	1603088400000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"17"
+id	"6942370153334300969"
+rawId	"-6942370153334300969-2010190645-11"
+mediumId	"6942370153334300969-2010190645"
+substitute	false
+train	
+longDistance	false
+name	"RE 17"
+number	"74520"
+line	"17"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Leipzig Hbf"
+1	
+name	"Markranstädt"
+2	
+name	"Bad Dürrenberg"
+3	
+name	"Weißenfels"
+4	
+name	"Naumburg (Saale) Hbf"
+5	
+name	"Bad Kösen"
+6	
+name	"Großheringen"
+7	
+name	"Bad Sulza"
+8	
+name	"Apolda"
+9	
+name	"Weimar"
+10	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"8a"
+scheduledPlatform	"8a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+18	
+o	"8004NT"
+initialDeparture	1603088400000
+departure	
+scheduledTime	1603088400000
+time	1603088400000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Jena-Göschwitz"
+lineNumber	"3"
+id	"8146211345322644510"
+rawId	"8146211345322644510-2010190820-1"
+mediumId	"8146211345322644510-2010190820"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3955"
+line	"3"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Jena West"
+showVia	true
+3	
+name	"Jena-Göschwitz"
+destination	"Jena-Göschwitz"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	false
+reihung	false
+hiddenReihung	true
+19	
+o	"SBX"
+initialDeparture	1603084200000
+arrival	
+scheduledTime	1603088460000
+time	1603089420000
+platform	"6"
+scheduledPlatform	"6"
+hidden	false
+cancelled	false
+delay	16
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"50"
+id	"2315875295484484488"
+rawId	"-2315875295484484488-2010190710-8"
+mediumId	"2315875295484484488-2010190710"
+substitute	false
+train	
+longDistance	false
+name	"STx 50"
+number	"81084"
+line	"50"
+type	"STx"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Meiningen"
+1	
+name	"Grimmenthal"
+2	
+name	"Suhl"
+3	
+name	"Zella-Mehlis"
+4	
+name	"Gräfenroda"
+5	
+name	"Arnstadt Hbf"
+6	
+name	"Neudietendorf"
+7	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"6"
+scheduledPlatform	"6"
+auslastung	false
+reihung	false
+hiddenReihung	false
+20	
+o	"AMRB"
+initialDeparture	1603087260000
+arrival	
+scheduledTime	1603088460000
+time	1603088460000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"59"
+id	"2557184918944897843"
+rawId	"-2557184918944897843-2010190801-5"
+mediumId	"2557184918944897843-2010190801"
+substitute	false
+train	
+longDistance	false
+name	"RB 59"
+number	"74550"
+line	"59"
+type	"RB"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Sömmerda"
+1	
+name	"Großrudestedt"
+2	
+name	"Stotternheim"
+3	
+name	"Erfurt Ost"
+4	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+21	
+o	"80"
+initialDeparture	1603078680000
+arrival	
+scheduledTime	1603088940000
+time	1603088940000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603089060000
+time	1603089060000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"München Hbf"
+id	"8049328993498305601"
+rawId	"8049328993498305601-2010190538-6"
+mediumId	"8049328993498305601-2010190538"
+substitute	false
+train	
+longDistance	true
+name	"ICE 503"
+number	"503"
+type	"ICE"
+messages	
+delay	[]
+qos	
+0	
+text	"Abweichende Wagenreihung"
+timestamp	1603076880000
+him	[]
+cancelled	false
+route	
+0	
+name	"Berlin Gesundbrunnen"
+1	
+name	"Berlin Hbf  (tief)"
+2	
+name	"Berlin Südkreuz"
+3	
+name	"Bitterfeld"
+4	
+name	"Leipzig Hbf"
+5	
+name	"Erfurt Hbf"
+cancelled	false
+6	
+name	"Bamberg"
+showVia	true
+7	
+name	"Erlangen"
+showVia	true
+8	
+name	"Nürnberg Hbf"
+showVia	true
+9	
+name	"München Hbf"
+destination	"München Hbf"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	true
+reihung	true
+hiddenReihung	false
+22	
+o	"800487"
+initialDeparture	1603089180000
+departure	
+scheduledTime	1603089180000
+time	1603089180000
+platform	"2"
+scheduledPlatform	"2"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Kassel-Wilhelmshöhe"
+lineNumber	"2"
+id	"2784826577821015395"
+rawId	"2784826577821015395-2010190833-1"
+mediumId	"2784826577821015395-2010190833"
+substitute	false
+train	
+longDistance	false
+name	"RE 2"
+number	"16254"
+line	"2"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Döllstädt"
+showVia	true
+2	
+name	"Bad Langensalza"
+showVia	true
+3	
+name	"Mühlhausen (Thür)"
+showVia	true
+4	
+name	"Dachrieden"
+5	
+name	"Silberhausen"
+6	
+name	"Leinefelde"
+7	
+name	"Heilbad Heiligenstadt"
+8	
+name	"Uder"
+9	
+name	"Arenshausen"
+10	
+name	"Eichenberg"
+11	
+name	"Witzenhausen Nord"
+12	
+name	"Hann Münden"
+13	
+name	"Kassel-Wilhelmshöhe"
+destination	"Kassel-Wilhelmshöhe"
+platform	"2"
+scheduledPlatform	"2"
+auslastung	false
+reihung	false
+hiddenReihung	true
+23	
+o	"AMRE"
+initialDeparture	1603089360000
+departure	
+scheduledTime	1603089360000
+time	1603089360000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Halle (Saale) Hbf"
+lineNumber	"16"
+id	"7051888944061130916"
+rawId	"-7051888944061130916-2010190836-1"
+mediumId	"7051888944061130916-2010190836"
+substitute	false
+train	
+longDistance	false
+name	"RE 16"
+number	"74505"
+line	"16"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Apolda"
+3	
+name	"Großheringen"
+4	
+name	"Bad Kösen"
+5	
+name	"Naumburg (Saale) Hbf"
+showVia	true
+6	
+name	"Weißenfels"
+7	
+name	"Merseburg Hbf"
+showVia	true
+8	
+name	"Halle (Saale) Hbf"
+destination	"Halle (Saale) Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+24	
+o	"EB"
+initialDeparture	1603089480000
+departure	
+scheduledTime	1603089480000
+time	1603089480000
+wingIds	
+0	"2501648976251647314-2010190838"
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Saalfeld (Saale)"
+lineNumber	"23"
+id	"7362039130648040099"
+rawId	"7362039130648040099-2010190838-1"
+mediumId	"7362039130648040099-2010190838"
+substitute	false
+train	
+longDistance	false
+name	"EB 23"
+number	"80981"
+line	"23"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Marlishausen"
+7	
+name	"Niederwillingen"
+8	
+name	"Stadtilm"
+9	
+name	"Singen (Thür)"
+10	
+name	"Paulinzella"
+11	
+name	"Rottenbach"
+12	
+name	"Bad Blankenburg (Thüringerw)"
+13	
+name	"Saalfeld (Saale)"
+destination	"Saalfeld (Saale)"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+25	
+o	"EB"
+initialDeparture	1603084560000
+arrival	
+scheduledTime	1603089780000
+time	1603089780000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"21"
+id	"4638243541593986025"
+rawId	"4638243541593986025-2010190716-15"
+mediumId	"4638243541593986025-2010190716"
+substitute	false
+train	
+longDistance	false
+name	"EB 21"
+number	"80884"
+line	"21"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Gera Hbf"
+1	
+name	"Töppeln"
+2	
+name	"Kraftsdorf"
+3	
+name	"Hermsdorf-Klosterlausnitz"
+4	
+name	"Papiermühle (Stadtr)"
+5	
+name	"Stadtroda"
+6	
+name	"Neue Schenke"
+7	
+name	"Jena-Göschwitz"
+8	
+name	"Jena West"
+9	
+name	"Großschwabhausen"
+10	
+name	"Mellingen (Thür)"
+11	
+name	"Oberweimar"
+12	
+name	"Weimar"
+13	
+name	"Vieselbach"
+14	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"9"
+scheduledPlatform	"9"
+auslastung	false
+reihung	false
+hiddenReihung	false
+26	
+o	"80"
+initialDeparture	1603087560000
+arrival	
+scheduledTime	1603089720000
+time	1603089720000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+departure	
+scheduledTime	1603089840000
+time	1603089840000
+wingIds	
+0	"8615961487604461422-2010190844"
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Gera Hbf"
+id	"8934176839360161644"
+rawId	"8934176839360161644-2010190806-3"
+mediumId	"8934176839360161644-2010190806"
+substitute	false
+train	
+longDistance	true
+name	"IC 2151"
+number	"2151"
+type	"IC"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Eisenach"
+1	
+name	"Gotha"
+2	
+name	"Erfurt Hbf"
+3	
+name	"Weimar"
+showVia	true
+4	
+name	"Jena West"
+showVia	true
+5	
+name	"Jena-Göschwitz"
+showVia	true
+6	
+name	"Stadtroda"
+7	
+name	"Hermsdorf-Klosterlausnitz"
+8	
+name	"Gera Hbf"
+destination	"Gera Hbf"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	true
+reihung	true
+hiddenReihung	false
+27	
+o	"800487"
+initialDeparture	1603084740000
+arrival	
+scheduledTime	1603089960000
+time	1603089960000
+platform	"3"
+scheduledPlatform	"3"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"52"
+id	"334406931844951861"
+rawId	"-334406931844951861-2010190719-18"
+mediumId	"334406931844951861-2010190719"
+substitute	false
+train	
+longDistance	false
+name	"RB 52"
+number	"16285"
+line	"52"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Leinefelde"
+1	
+name	"Birkungen"
+2	
+name	"Silberhausen"
+3	
+name	"Dachrieden"
+4	
+name	"Ammern"
+5	
+name	"Mühlhausen (Thür)"
+6	
+name	"Seebach (Mühlhausen)"
+7	
+name	"Großengottern"
+8	
+name	"Schönstedt"
+9	
+name	"Bad Langensalza"
+10	
+name	"Gräfentonna"
+11	
+name	"Döllstädt"
+12	
+name	"Dachwig"
+13	
+name	"Elxleben"
+14	
+name	"Kühnhausen"
+15	
+name	"Erfurt-Gispersleben"
+16	
+name	"Erfurt Nord"
+17	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"3"
+scheduledPlatform	"3"
+auslastung	false
+reihung	false
+hiddenReihung	true
+28	
+o	"AMRE"
+initialDeparture	1603080480000
+arrival	
+scheduledTime	1603090200000
+time	1603090380000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+cancelled	false
+delay	3
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"10"
+id	"2862367162233307219"
+rawId	"-2862367162233307219-2010190608-23"
+mediumId	"2862367162233307219-2010190608"
+substitute	false
+train	
+longDistance	false
+name	"RE 10"
+number	"74839"
+line	"10"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Magdeburg Hbf"
+1	
+name	"Magdeburg-Buckau"
+2	
+name	"Schönebeck (Elbe)"
+3	
+name	"Schönebeck-Bad Salzelmen"
+4	
+name	"Eickendorf"
+5	
+name	"Förderstedt"
+6	
+name	"Staßfurt"
+7	
+name	"Neundorf (Anh)"
+8	
+name	"Güsten"
+9	
+name	"Sandersleben (Anh)"
+10	
+name	"Hettstedt"
+11	
+name	"Klostermansfeld"
+12	
+name	"Sangerhausen"
+13	
+name	"Oberröblingen"
+14	
+name	"Voigtstedt"
+15	
+name	"Artern"
+16	
+name	"Heldrungen"
+17	
+name	"Griefstedt"
+18	
+name	"Leubingen"
+19	
+name	"Sömmerda"
+20	
+name	"Großrudestedt"
+21	
+name	"Stotternheim"
+22	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+29	
+o	"800487"
+initialDeparture	1603085340000
+arrival	
+scheduledTime	1603090560000
+time	1603090560000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"56"
+id	"5173066403845695853"
+rawId	"-5173066403845695853-2010190729-16"
+mediumId	"5173066403845695853-2010190729"
+substitute	false
+train	
+longDistance	false
+name	"RE 56"
+number	"16571"
+line	"56"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Nordhausen"
+1	
+name	"Werther"
+2	
+name	"Wolkramshausen"
+3	
+name	"Kleinfurra"
+4	
+name	"Großfurra"
+5	
+name	"Glückauf"
+6	
+name	"Sondershausen"
+7	
+name	"Hohenebra Ort"
+8	
+name	"Niederspier"
+9	
+name	"Wasserthaleben"
+10	
+name	"Greußen"
+11	
+name	"Gangloffsömmern"
+12	
+name	"Straußfurt"
+13	
+name	"Ringleben-Gebesee"
+14	
+name	"Erfurt Nord"
+15	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+30	
+o	"SB"
+initialDeparture	1603085700000
+arrival	
+scheduledTime	1603090560000
+time	1603090560000
+platform	"8"
+scheduledPlatform	"8"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"44"
+id	"3392436341763201982"
+rawId	"3392436341763201982-2010190735-15"
+mediumId	"3392436341763201982-2010190735"
+substitute	false
+train	
+longDistance	false
+name	"STB 44"
+number	"81278"
+line	"44"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Meiningen"
+1	
+name	"Grimmenthal"
+2	
+name	"Rohr (Thür)"
+3	
+name	"Dietzhausen"
+4	
+name	"Suhl-Heinrichs"
+5	
+name	"Suhl"
+6	
+name	"Zella-Mehlis"
+7	
+name	"Gehlberg"
+8	
+name	"Dörrberg"
+9	
+name	"Gräfenroda"
+10	
+name	"Plaue (Thür)"
+11	
+name	"Arnstadt Süd"
+12	
+name	"Arnstadt Hbf"
+13	
+name	"Neudietendorf"
+14	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"8"
+scheduledPlatform	"8"
+auslastung	false
+reihung	false
+hiddenReihung	false
+31	
+o	"AMRB"
+initialDeparture	1603087560000
+arrival	
+scheduledTime	1603090440000
+time	1603090440000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603090860000
+time	1603090860000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Leipzig Hbf"
+lineNumber	"20"
+id	"8442782341039798488"
+rawId	"-8442782341039798488-2010190806-12"
+mediumId	"8442782341039798488-2010190806"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74613"
+line	"20"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Eisenach"
+1	
+name	"Wutha"
+2	
+name	"Schönau (Hörsel)"
+3	
+name	"Sättelstädt"
+4	
+name	"Mechterstädt"
+5	
+name	"Fröttstädt"
+6	
+name	"Gotha"
+7	
+name	"Seebergen"
+8	
+name	"Wandersleben"
+9	
+name	"Neudietendorf"
+10	
+name	"Erfurt-Bischleben"
+11	
+name	"Erfurt Hbf"
+cancelled	false
+12	
+name	"Vieselbach"
+showVia	true
+13	
+name	"Hopfgarten (Weimar)"
+showVia	true
+14	
+name	"Weimar"
+15	
+name	"Oßmannstedt"
+16	
+name	"Apolda"
+17	
+name	"Niedertrebra"
+18	
+name	"Bad Sulza"
+19	
+name	"Großheringen"
+20	
+name	"Bad Kösen"
+21	
+name	"Naumburg (Saale) Hbf"
+showVia	true
+22	
+name	"Leißling"
+23	
+name	"Weißenfels"
+24	
+name	"Großkorbetha"
+25	
+name	"Bad Dürrenberg"
+26	
+name	"Kötzschau"
+27	
+name	"Großlehna"
+28	
+name	"Markranstädt"
+29	
+name	"Leipzig-Miltitz"
+30	
+name	"Leipzig-Rückmarsdorf"
+31	
+name	"Leipzig-Leutzsch"
+32	
+name	"Leipzig-Möckern"
+33	
+name	"Leipzig Hbf"
+destination	"Leipzig Hbf"
+platform	"8a"
+scheduledPlatform	"8a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+32	
+o	"800487"
+initialDeparture	1603090920000
+departure	
+scheduledTime	1603090920000
+time	1603090920000
+platform	"3"
+scheduledPlatform	"3"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Nordhausen"
+lineNumber	"56"
+id	"8441899500115711274"
+rawId	"-8441899500115711274-2010190902-1"
+mediumId	"8441899500115711274-2010190902"
+substitute	false
+train	
+longDistance	false
+name	"RE 56"
+number	"16572"
+line	"56"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Erfurt Nord"
+showVia	true
+2	
+name	"Ringleben-Gebesee"
+showVia	true
+3	
+name	"Straußfurt"
+showVia	true
+4	
+name	"Gangloffsömmern"
+5	
+name	"Greußen"
+6	
+name	"Wasserthaleben"
+7	
+name	"Niederspier"
+8	
+name	"Hohenebra Ort"
+9	
+name	"Sondershausen"
+10	
+name	"Glückauf"
+11	
+name	"Großfurra"
+12	
+name	"Kleinfurra"
+13	
+name	"Wolkramshausen"
+14	
+name	"Werther"
+15	
+name	"Nordhausen"
+destination	"Nordhausen"
+platform	"3"
+scheduledPlatform	"3"
+auslastung	false
+reihung	false
+hiddenReihung	true
+33	
+o	"SB"
+initialDeparture	1603090920000
+departure	
+scheduledTime	1603090920000
+time	1603090920000
+platform	"6"
+scheduledPlatform	"6"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Meiningen"
+lineNumber	"44"
+id	"8447868939859667034"
+rawId	"8447868939859667034-2010190902-1"
+mediumId	"8447868939859667034-2010190902"
+substitute	false
+train	
+longDistance	false
+name	"STB 44"
+number	"81275"
+line	"44"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Neudietendorf"
+showVia	true
+2	
+name	"Arnstadt Hbf"
+showVia	true
+3	
+name	"Arnstadt Süd"
+4	
+name	"Plaue (Thür)"
+5	
+name	"Gräfenroda"
+6	
+name	"Dörrberg"
+7	
+name	"Gehlberg"
+8	
+name	"Zella-Mehlis"
+9	
+name	"Suhl"
+10	
+name	"Suhl-Heinrichs"
+11	
+name	"Dietzhausen"
+12	
+name	"Rohr (Thür)"
+13	
+name	"Grimmenthal"
+14	
+name	"Meiningen"
+destination	"Meiningen"
+platform	"6"
+scheduledPlatform	"6"
+auslastung	false
+reihung	false
+hiddenReihung	false
+34	
+o	"AMRB"
+initialDeparture	1603084740000
+arrival	
+scheduledTime	1603090680000
+time	1603090680000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603091100000
+time	1603091100000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Eisenach"
+lineNumber	"20"
+id	"309626869300548726"
+rawId	"309626869300548726-2010190719-23"
+mediumId	"309626869300548726-2010190719"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74608"
+line	"20"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Leipzig Hbf"
+1	
+name	"Leipzig-Möckern"
+2	
+name	"Leipzig-Leutzsch"
+3	
+name	"Leipzig-Rückmarsdorf"
+4	
+name	"Leipzig-Miltitz"
+5	
+name	"Markranstädt"
+6	
+name	"Großlehna"
+7	
+name	"Kötzschau"
+8	
+name	"Bad Dürrenberg"
+9	
+name	"Großkorbetha"
+10	
+name	"Weißenfels"
+11	
+name	"Leißling"
+12	
+name	"Naumburg (Saale) Hbf"
+13	
+name	"Bad Kösen"
+14	
+name	"Großheringen"
+15	
+name	"Bad Sulza"
+16	
+name	"Niedertrebra"
+17	
+name	"Apolda"
+18	
+name	"Oßmannstedt"
+19	
+name	"Weimar"
+20	
+name	"Hopfgarten (Weimar)"
+21	
+name	"Vieselbach"
+22	
+name	"Erfurt Hbf"
+cancelled	false
+23	
+name	"Erfurt-Bischleben"
+showVia	true
+24	
+name	"Neudietendorf"
+showVia	true
+25	
+name	"Wandersleben"
+showVia	true
+26	
+name	"Seebergen"
+27	
+name	"Gotha"
+28	
+name	"Fröttstädt"
+29	
+name	"Mechterstädt"
+30	
+name	"Sättelstädt"
+31	
+name	"Schönau (Hörsel)"
+32	
+name	"Wutha"
+33	
+name	"Eisenach"
+destination	"Eisenach"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+35	
+o	"800487"
+initialDeparture	1603091220000
+departure	
+scheduledTime	1603091220000
+time	1603091220000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Leinefelde"
+lineNumber	"52"
+id	"2699537064247668917"
+rawId	"2699537064247668917-2010190907-1"
+mediumId	"2699537064247668917-2010190907"
+substitute	false
+train	
+longDistance	false
+name	"RB 52"
+number	"16284"
+line	"52"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt Nord"
+showVia	true
+2	
+name	"Erfurt-Gispersleben"
+showVia	true
+3	
+name	"Kühnhausen"
+showVia	true
+4	
+name	"Elxleben"
+5	
+name	"Dachwig"
+6	
+name	"Döllstädt"
+7	
+name	"Gräfentonna"
+8	
+name	"Bad Langensalza"
+9	
+name	"Schönstedt"
+10	
+name	"Großengottern"
+11	
+name	"Seebach (Mühlhausen)"
+12	
+name	"Mühlhausen (Thür)"
+13	
+name	"Ammern"
+14	
+name	"Dachrieden"
+15	
+name	"Silberhausen"
+16	
+name	"Birkungen"
+17	
+name	"Leinefelde"
+destination	"Leinefelde"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+36	
+o	"8004NT"
+initialDeparture	1603084560000
+arrival	
+scheduledTime	1603091340000
+time	1603091280000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	-1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"3"
+id	"3403299321462773897"
+rawId	"-3403299321462773897-2010190716-13"
+mediumId	"3403299321462773897-2010190716"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3924"
+line	"3"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Greiz"
+1	
+name	"Neumühle (Elster)"
+2	
+name	"Berga (Elster)"
+3	
+name	"Wünschendorf"
+4	
+name	"Gera-Zwötzen"
+5	
+name	"Gera Süd"
+6	
+name	"Gera Hbf"
+7	
+name	"Hermsdorf-Klosterlausnitz"
+8	
+name	"Stadtroda"
+9	
+name	"Jena-Göschwitz"
+10	
+name	"Jena West"
+11	
+name	"Weimar"
+12	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+37	
+o	"8004NT"
+initialDeparture	1603084980000
+arrival	
+scheduledTime	1603091340000
+time	1603091280000
+wingIds	
+0	"3403299321462773897-2010190716"
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	-1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"3"
+id	"1867717216919689780"
+rawId	"1867717216919689780-2010190723-13"
+mediumId	"1867717216919689780-2010190723"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3904"
+line	"3"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Altenburg"
+1	
+name	"Lehndorf (Altenburg)"
+2	
+name	"Schmölln (Thür)"
+3	
+name	"Nöbdenitz"
+4	
+name	"Ronneburg (Thür)"
+5	
+name	"Gera Süd"
+6	
+name	"Gera Hbf"
+7	
+name	"Hermsdorf-Klosterlausnitz"
+8	
+name	"Stadtroda"
+9	
+name	"Jena-Göschwitz"
+10	
+name	"Jena West"
+11	
+name	"Weimar"
+12	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+38	
+o	"AMRE"
+initialDeparture	1603091400000
+departure	
+scheduledTime	1603091400000
+time	1603091400000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Magdeburg Hbf"
+lineNumber	"10"
+id	"1004333693565992132"
+rawId	"-1004333693565992132-2010190910-1"
+mediumId	"1004333693565992132-2010190910"
+substitute	false
+train	
+longDistance	false
+name	"RE 10"
+number	"74844"
+line	"10"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Stotternheim"
+showVia	true
+2	
+name	"Großrudestedt"
+showVia	true
+3	
+name	"Sömmerda"
+showVia	true
+4	
+name	"Leubingen"
+5	
+name	"Griefstedt"
+6	
+name	"Heldrungen"
+7	
+name	"Artern"
+8	
+name	"Voigtstedt"
+9	
+name	"Oberröblingen"
+10	
+name	"Sangerhausen"
+11	
+name	"Klostermansfeld"
+12	
+name	"Hettstedt"
+13	
+name	"Sandersleben (Anh)"
+14	
+name	"Güsten"
+15	
+name	"Staßfurt"
+16	
+name	"Schönebeck (Elbe)"
+17	
+name	"Magdeburg-Buckau"
+18	
+name	"Magdeburg Hbf"
+destination	"Magdeburg Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+39	
+o	"EB"
+initialDeparture	1603087920000
+arrival	
+scheduledTime	1603091820000
+time	1603091820000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"23"
+id	"3325125762192320368"
+rawId	"3325125762192320368-2010190812-14"
+mediumId	"3325125762192320368-2010190812"
+substitute	false
+train	
+longDistance	false
+name	"EB 23"
+number	"80980"
+line	"23"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Saalfeld (Saale)"
+1	
+name	"Bad Blankenburg (Thüringerw)"
+2	
+name	"Rottenbach"
+3	
+name	"Paulinzella"
+4	
+name	"Singen (Thür)"
+5	
+name	"Stadtilm"
+6	
+name	"Niederwillingen"
+7	
+name	"Marlishausen"
+8	
+name	"Arnstadt Hbf"
+9	
+name	"Haarhausen"
+10	
+name	"Sülzenbrücken"
+11	
+name	"Neudietendorf"
+12	
+name	"Erfurt-Bischleben"
+13	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+40	
+o	"SB"
+initialDeparture	1603088280000
+arrival	
+scheduledTime	1603091820000
+time	1603091820000
+wingIds	
+0	"3325125762192320368-2010190812"
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"46"
+id	"1033403595288745196"
+rawId	"-1033403595288745196-2010190818-14"
+mediumId	"1033403595288745196-2010190818"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81196"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Ilmenau"
+1	
+name	"Ilmenau Pörlitzer Höhe"
+2	
+name	"Ilmenau-Roda"
+3	
+name	"Elgersburg"
+4	
+name	"Geraberg"
+5	
+name	"Martinroda"
+6	
+name	"Plaue (Thür)"
+7	
+name	"Arnstadt Süd"
+8	
+name	"Arnstadt Hbf"
+9	
+name	"Haarhausen"
+10	
+name	"Sülzenbrücken"
+11	
+name	"Neudietendorf"
+12	
+name	"Erfurt-Bischleben"
+13	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+41	
+o	"EB"
+initialDeparture	1603091820000
+departure	
+scheduledTime	1603091820000
+time	1603091820000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Gera Hbf"
+lineNumber	"21"
+id	"3359244076148479898"
+rawId	"3359244076148479898-2010190917-1"
+mediumId	"3359244076148479898-2010190917"
+substitute	false
+train	
+longDistance	false
+name	"EB 21"
+number	"80885"
+line	"21"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Vieselbach"
+showVia	true
+2	
+name	"Weimar"
+showVia	true
+3	
+name	"Oberweimar"
+showVia	true
+4	
+name	"Mellingen (Thür)"
+5	
+name	"Großschwabhausen"
+6	
+name	"Jena West"
+7	
+name	"Jena-Göschwitz"
+8	
+name	"Neue Schenke"
+9	
+name	"Stadtroda"
+10	
+name	"Papiermühle (Stadtr)"
+11	
+name	"Hermsdorf-Klosterlausnitz"
+12	
+name	"Kraftsdorf"
+13	
+name	"Töppeln"
+14	
+name	"Gera Hbf"
+destination	"Gera Hbf"
+platform	"9"
+scheduledPlatform	"9"
+auslastung	false
+reihung	false
+hiddenReihung	false
+42	
+o	"800487"
+initialDeparture	1603083900000
+arrival	
+scheduledTime	1603092060000
+time	1603092120000
+platform	"3"
+scheduledPlatform	"3"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"2"
+id	"9190212342786968016"
+rawId	"-9190212342786968016-2010190705-18"
+mediumId	"9190212342786968016-2010190705"
+substitute	false
+train	
+longDistance	false
+name	"RB 2"
+number	"16251"
+line	"2"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Kassel-Wilhelmshöhe"
+1	
+name	"Fuldatal-Ihringshausen"
+2	
+name	"Speele"
+3	
+name	"Hann Münden"
+4	
+name	"Hedemünden"
+5	
+name	"Gertenbach"
+6	
+name	"Witzenhausen Nord"
+7	
+name	"Eichenberg"
+8	
+name	"Arenshausen"
+9	
+name	"Uder"
+10	
+name	"Heilbad Heiligenstadt"
+11	
+name	"Leinefelde"
+12	
+name	"Silberhausen"
+13	
+name	"Dachrieden"
+14	
+name	"Mühlhausen (Thür)"
+15	
+name	"Bad Langensalza"
+16	
+name	"Döllstädt"
+17	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"3"
+scheduledPlatform	"3"
+auslastung	false
+reihung	false
+hiddenReihung	true
+43	
+o	"AMRE"
+initialDeparture	1603087620000
+arrival	
+scheduledTime	1603092120000
+time	1603092120000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"16"
+id	"7674174940944530498"
+rawId	"7674174940944530498-2010190807-9"
+mediumId	"7674174940944530498-2010190807"
+substitute	false
+train	
+longDistance	false
+name	"RE 16"
+number	"74502"
+line	"16"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Halle (Saale) Hbf"
+1	
+name	"Merseburg Hbf"
+2	
+name	"Weißenfels"
+3	
+name	"Naumburg (Saale) Hbf"
+4	
+name	"Bad Kösen"
+5	
+name	"Großheringen"
+6	
+name	"Apolda"
+7	
+name	"Weimar"
+8	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+44	
+o	"80"
+initialDeparture	1603083360000
+arrival	
+scheduledTime	1603092360000
+time	1603092300000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	-1
+departure	
+scheduledTime	1603092480000
+time	1603092480000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Hamburg-Altona"
+id	"5894767788106580379"
+rawId	"-5894767788106580379-2010190656-5"
+mediumId	"5894767788106580379-2010190656"
+substitute	false
+train	
+longDistance	true
+name	"ICE 602"
+number	"602"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"München Hbf"
+1	
+name	"Nürnberg Hbf"
+2	
+name	"Erlangen"
+3	
+name	"Bamberg"
+4	
+name	"Erfurt Hbf"
+cancelled	false
+5	
+name	"Leipzig Hbf"
+showVia	true
+6	
+name	"Bitterfeld"
+7	
+name	"Berlin Südkreuz"
+8	
+name	"Berlin Hbf  (tief)"
+showVia	true
+9	
+name	"Berlin-Spandau"
+10	
+name	"Hamburg Hbf"
+showVia	true
+11	
+name	"Hamburg Dammtor"
+12	
+name	"Hamburg-Altona"
+destination	"Hamburg-Altona"
+platform	"9"
+scheduledPlatform	"9"
+auslastung	true
+reihung	true
+hiddenReihung	false
+45	
+o	"80"
+initialDeparture	1603073340000
+arrival	
+scheduledTime	1603092240000
+time	1603092360000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	2
+departure	
+scheduledTime	1603092720000
+time	1603092720000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"München Hbf"
+id	"6178329184277023949"
+rawId	"6178329184277023949-2010190409-11"
+mediumId	"6178329184277023949-2010190409"
+substitute	false
+train	
+longDistance	true
+name	"ICE 701"
+number	"701"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Hamburg-Altona"
+1	
+name	"Hamburg Dammtor"
+2	
+name	"Hamburg Hbf"
+3	
+name	"Ludwigslust"
+4	
+name	"Wittenberge"
+5	
+name	"Berlin-Spandau"
+6	
+name	"Berlin Hbf  (tief)"
+7	
+name	"Berlin Südkreuz"
+8	
+name	"Bitterfeld"
+9	
+name	"Halle (Saale) Hbf"
+10	
+name	"Erfurt Hbf"
+cancelled	false
+11	
+name	"Bamberg"
+showVia	true
+12	
+name	"Nürnberg Hbf"
+showVia	true
+13	
+name	"Donauwörth"
+14	
+name	"Augsburg Hbf"
+showVia	true
+15	
+name	"München-Pasing"
+16	
+name	"München Hbf"
+destination	"München Hbf"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	true
+reihung	true
+hiddenReihung	false
+46	
+o	"8004NT"
+initialDeparture	1603092900000
+departure	
+scheduledTime	1603092900000
+time	1603092900000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Würzburg Hbf"
+lineNumber	"7"
+id	"1099283276908084775"
+rawId	"-1099283276908084775-2010190935-1"
+mediumId	"1099283276908084775-2010190935"
+substitute	false
+train	
+longDistance	false
+name	"RE 7"
+number	"3757"
+line	"7"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Neudietendorf"
+showVia	true
+2	
+name	"Arnstadt Hbf"
+showVia	true
+3	
+name	"Plaue (Thür)"
+4	
+name	"Zella-Mehlis"
+5	
+name	"Suhl"
+6	
+name	"Grimmenthal"
+7	
+name	"Mellrichstadt Bf"
+8	
+name	"Bad Neustadt (Saale)"
+9	
+name	"Münnerstadt"
+10	
+name	"Ebenhausen (Unterfr)"
+11	
+name	"Schweinfurt Hbf"
+showVia	true
+12	
+name	"Würzburg Hbf"
+destination	"Würzburg Hbf"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+47	
+o	"AMRE"
+initialDeparture	1603092960000
+departure	
+scheduledTime	1603092960000
+time	1603092960000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Naumburg (Saale) Hbf"
+lineNumber	"17"
+id	"2359774565496949019"
+rawId	"2359774565496949019-2010190936-1"
+mediumId	"2359774565496949019-2010190936"
+substitute	false
+train	
+longDistance	false
+name	"RE 17"
+number	"74521"
+line	"17"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Apolda"
+showVia	true
+3	
+name	"Bad Sulza"
+showVia	true
+4	
+name	"Großheringen"
+5	
+name	"Bad Kösen"
+6	
+name	"Naumburg (Saale) Hbf"
+destination	"Naumburg (Saale) Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+48	
+o	"8004NT"
+initialDeparture	1603090920000
+arrival	
+scheduledTime	1603093080000
+time	1603093080000
+platform	"2"
+scheduledPlatform	"2"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"3"
+id	"5289409128844374000"
+rawId	"-5289409128844374000-2010190902-4"
+mediumId	"5289409128844374000-2010190902"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3954"
+line	"3"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Jena-Göschwitz"
+1	
+name	"Jena West"
+2	
+name	"Weimar"
+3	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"2"
+scheduledPlatform	"2"
+auslastung	false
+reihung	false
+hiddenReihung	true
+49	
+o	"EB"
+initialDeparture	1603093080000
+departure	
+scheduledTime	1603093080000
+time	1603093080000
+wingIds	
+0	"5509759771891708756-2010190938"
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Saalfeld (Saale)"
+lineNumber	"23"
+id	"6758883719760600667"
+rawId	"-6758883719760600667-2010190938-1"
+mediumId	"6758883719760600667-2010190938"
+substitute	false
+train	
+longDistance	false
+name	"EB 23"
+number	"80983"
+line	"23"
+type	"EB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Marlishausen"
+7	
+name	"Niederwillingen"
+8	
+name	"Stadtilm"
+9	
+name	"Singen (Thür)"
+10	
+name	"Rottenbach"
+11	
+name	"Bad Blankenburg (Thüringerw)"
+12	
+name	"Saalfeld (Saale)"
+destination	"Saalfeld (Saale)"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+50	
+o	"80"
+initialDeparture	1603081080000
+arrival	
+scheduledTime	1603093080000
+time	1603091700000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+cancelled	false
+delay	-23
+departure	
+scheduledTime	1603093200000
+time	1603093200000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Leipzig Hbf"
+id	"2399764757688153611"
+rawId	"2399764757688153611-2010190618-2"
+mediumId	"2399764757688153611-2010190618"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1555"
+number	"1555"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Frankfurt (Main) Hbf"
+1	
+name	"Erfurt Hbf"
+cancelled	false
+2	
+name	"Leipzig Hbf"
+destination	"Leipzig Hbf"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	true
+reihung	true
+hiddenReihung	false
+51	
+o	"SBX"
+initialDeparture	1603088520000
+arrival	
+scheduledTime	1603093380000
+time	1603093380000
+platform	"6"
+scheduledPlatform	"6"
+hidden	false
+cancelled	false
+delay	0
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"50"
+id	"7244442770051817532"
+rawId	"-7244442770051817532-2010190822-11"
+mediumId	"7244442770051817532-2010190822"
+substitute	false
+train	
+longDistance	false
+name	"STx 50"
+number	"81086"
+line	"50"
+type	"STx"
+messages	
+delay	[]
+qos	[]
+him	[]
+route	
+0	
+name	"Meiningen"
+1	
+name	"Untermaßfeld"
+2	
+name	"Grimmenthal"
+3	
+name	"Suhl"
+4	
+name	"Zella-Mehlis"
+5	
+name	"Gräfenroda"
+6	
+name	"Plaue (Thür)"
+7	
+name	"Arnstadt Süd"
+8	
+name	"Arnstadt Hbf"
+9	
+name	"Neudietendorf"
+10	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"6"
+scheduledPlatform	"6"
+auslastung	false
+reihung	false
+hiddenReihung	false
+52	
+o	"80"
+initialDeparture	1603083120000
+arrival	
+scheduledTime	1603093500000
+time	1603093680000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	3
+departure	
+scheduledTime	1603093620000
+time	1603093800000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	3
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"München Hbf"
+id	"7242763601203387586"
+rawId	"-7242763601203387586-2010190652-5"
+mediumId	"7242763601203387586-2010190652"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1003"
+number	"1003"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Berlin Gesundbrunnen"
+1	
+name	"Berlin Hbf  (tief)"
+2	
+name	"Berlin Südkreuz"
+3	
+name	"Halle (Saale) Hbf"
+4	
+name	"Erfurt Hbf"
+cancelled	false
+5	
+name	"Nürnberg Hbf"
+showVia	true
+6	
+name	"München Hbf"
+destination	"München Hbf"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	true
+reihung	true
+hiddenReihung	false
+53	
+o	"800487"
+initialDeparture	1603089240000
+arrival	
+scheduledTime	1603093800000
+time	1603093800000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"55"
+id	"4744567974114992676"
+rawId	"4744567974114992676-2010190834-11"
+mediumId	"4744567974114992676-2010190834"
+substitute	false
+train	
+longDistance	false
+name	"RE 55"
+number	"16555"
+line	"55"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Nordhausen"
+1	
+name	"Wolkramshausen"
+2	
+name	"Sondershausen"
+3	
+name	"Greußen"
+4	
+name	"Straußfurt"
+5	
+name	"Ringleben-Gebesee"
+6	
+name	"Walschleben"
+7	
+name	"Kühnhausen"
+8	
+name	"Erfurt-Gispersleben"
+9	
+name	"Erfurt Nord"
+10	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+54	
+o	"AMRB"
+initialDeparture	1603090320000
+arrival	
+scheduledTime	1603093860000
+time	1603093860000
+platform	"5"
+scheduledPlatform	"5"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Erfurt Hbf"
+lineNumber	"59"
+id	"3871326709276258029"
+rawId	"-3871326709276258029-2010190852-12"
+mediumId	"3871326709276258029-2010190852"
+substitute	false
+train	
+longDistance	false
+name	"RB 59"
+number	"74566"
+line	"59"
+type	"RB"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Sangerhausen"
+1	
+name	"Artern"
+2	
+name	"Bretleben"
+3	
+name	"Heldrungen"
+4	
+name	"Etzleben"
+5	
+name	"Griefstedt"
+6	
+name	"Leubingen"
+7	
+name	"Sömmerda"
+8	
+name	"Großrudestedt"
+9	
+name	"Stotternheim"
+10	
+name	"Erfurt Ost"
+11	
+name	"Erfurt Hbf"
+destination	"Erfurt Hbf"
+platform	"5"
+scheduledPlatform	"5"
+auslastung	false
+reihung	false
+hiddenReihung	true
+55	
+o	"8004NT"
+initialDeparture	1603087680000
+arrival	
+scheduledTime	1603093740000
+time	1603093740000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+departure	
+scheduledTime	1603093920000
+time	1603093920000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Glauchau (Sachs)"
+lineNumber	"1"
+id	"5112591979346353004"
+rawId	"5112591979346353004-2010190808-8"
+mediumId	"5112591979346353004-2010190808"
+substitute	false
+train	
+longDistance	false
+name	"RE 1"
+number	"3657"
+line	"1"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Göttingen"
+1	
+name	"Heilbad Heiligenstadt"
+2	
+name	"Leinefelde"
+3	
+name	"Mühlhausen (Thür)"
+4	
+name	"Bad Langensalza"
+5	
+name	"Gotha"
+6	
+name	"Neudietendorf"
+7	
+name	"Erfurt Hbf"
+8	
+name	"Weimar"
+showVia	true
+9	
+name	"Jena West"
+showVia	true
+10	
+name	"Jena-Göschwitz"
+11	
+name	"Stadtroda"
+12	
+name	"Hermsdorf-Klosterlausnitz"
+13	
+name	"Gera Hbf"
+showVia	true
+14	
+name	"Gera Süd"
+15	
+name	"Ronneburg (Thür)"
+16	
+name	"Schmölln (Thür)"
+17	
+name	"Gößnitz"
+18	
+name	"Meerane"
+19	
+name	"Glauchau (Sachs)"
+destination	"Glauchau (Sachs)"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	false
+reihung	false
+hiddenReihung	true
+56	
+o	"AMRB"
+initialDeparture	1603088340000
+arrival	
+scheduledTime	1603094280000
+time	1603094280000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603094400000
+time	1603094400000
+platform	"3a"
+scheduledPlatform	"3a"
+hidden	false
+cancelled	false
+delay	0
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Eisenach"
+lineNumber	"20"
+id	"3437302050396324385"
+rawId	"-3437302050396324385-2010190819-23"
+mediumId	"3437302050396324385-2010190819"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74610"
+line	"20"
+type	"RB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Leipzig Hbf"
+1	
+name	"Leipzig-Möckern"
+2	
+name	"Leipzig-Leutzsch"
+3	
+name	"Leipzig-Rückmarsdorf"
+4	
+name	"Leipzig-Miltitz"
+5	
+name	"Markranstädt"
+6	
+name	"Großlehna"
+7	
+name	"Kötzschau"
+8	
+name	"Bad Dürrenberg"
+9	
+name	"Großkorbetha"
+10	
+name	"Weißenfels"
+11	
+name	"Leißling"
+12	
+name	"Naumburg (Saale) Hbf"
+13	
+name	"Bad Kösen"
+14	
+name	"Großheringen"
+15	
+name	"Bad Sulza"
+16	
+name	"Niedertrebra"
+17	
+name	"Apolda"
+18	
+name	"Oßmannstedt"
+19	
+name	"Weimar"
+20	
+name	"Hopfgarten (Weimar)"
+21	
+name	"Vieselbach"
+22	
+name	"Erfurt Hbf"
+cancelled	false
+23	
+name	"Erfurt-Bischleben"
+showVia	true
+24	
+name	"Neudietendorf"
+showVia	true
+25	
+name	"Wandersleben"
+showVia	true
+26	
+name	"Seebergen"
+27	
+name	"Gotha"
+28	
+name	"Fröttstädt"
+29	
+name	"Mechterstädt"
+30	
+name	"Sättelstädt"
+31	
+name	"Schönau (Hörsel)"
+32	
+name	"Wutha"
+33	
+name	"Eisenach"
+destination	"Eisenach"
+platform	"3a"
+scheduledPlatform	"3a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+57	
+o	"AMRB"
+initialDeparture	1603091580000
+arrival	
+scheduledTime	1603094340000
+time	1603094340000
+platform	"8"
+scheduledPlatform	"8"
+hidden	false
+departure	
+scheduledTime	1603094460000
+time	1603094460000
+platform	"8"
+scheduledPlatform	"8"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Leipzig Hbf"
+lineNumber	"20"
+id	"6673977112586651688"
+rawId	"-6673977112586651688-2010190913-12"
+mediumId	"6673977112586651688-2010190913"
+substitute	false
+train	
+longDistance	false
+name	"RB 20"
+number	"74615"
+line	"20"
+type	"RB"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Eisenach"
+1	
+name	"Wutha"
+2	
+name	"Schönau (Hörsel)"
+3	
+name	"Sättelstädt"
+4	
+name	"Mechterstädt"
+5	
+name	"Fröttstädt"
+6	
+name	"Gotha"
+7	
+name	"Seebergen"
+8	
+name	"Wandersleben"
+9	
+name	"Neudietendorf"
+10	
+name	"Erfurt-Bischleben"
+11	
+name	"Erfurt Hbf"
+12	
+name	"Vieselbach"
+showVia	true
+13	
+name	"Hopfgarten (Weimar)"
+showVia	true
+14	
+name	"Weimar"
+15	
+name	"Oßmannstedt"
+16	
+name	"Apolda"
+17	
+name	"Niedertrebra"
+18	
+name	"Bad Sulza"
+19	
+name	"Großheringen"
+20	
+name	"Bad Kösen"
+21	
+name	"Naumburg (Saale) Hbf"
+showVia	true
+22	
+name	"Leißling"
+23	
+name	"Weißenfels"
+24	
+name	"Großkorbetha"
+25	
+name	"Bad Dürrenberg"
+26	
+name	"Kötzschau"
+27	
+name	"Großlehna"
+28	
+name	"Markranstädt"
+29	
+name	"Leipzig-Miltitz"
+30	
+name	"Leipzig-Rückmarsdorf"
+31	
+name	"Leipzig-Leutzsch"
+32	
+name	"Leipzig-Möckern"
+33	
+name	"Leipzig Hbf"
+destination	"Leipzig Hbf"
+platform	"8"
+scheduledPlatform	"8"
+auslastung	false
+reihung	false
+hiddenReihung	true
+58	
+o	"800487"
+initialDeparture	1603094520000
+departure	
+scheduledTime	1603094520000
+time	1603094520000
+platform	"4"
+scheduledPlatform	"4"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Nordhausen"
+lineNumber	"55"
+id	"3242064568636021121"
+rawId	"-3242064568636021121-2010191002-1"
+mediumId	"3242064568636021121-2010191002"
+substitute	false
+train	
+longDistance	false
+name	"RE 55"
+number	"16556"
+line	"55"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Erfurt Nord"
+showVia	true
+2	
+name	"Erfurt-Gispersleben"
+showVia	true
+3	
+name	"Kühnhausen"
+showVia	true
+4	
+name	"Walschleben"
+5	
+name	"Ringleben-Gebesee"
+6	
+name	"Straußfurt"
+7	
+name	"Greußen"
+8	
+name	"Sondershausen"
+9	
+name	"Wolkramshausen"
+10	
+name	"Nordhausen"
+destination	"Nordhausen"
+platform	"4"
+scheduledPlatform	"4"
+auslastung	false
+reihung	false
+hiddenReihung	true
+lookbehind	[]
+wings	
+2009118976866298655-2010190738	
+o	"SB"
+initialDeparture	1603085880000
+departure	
+scheduledTime	1603085880000
+time	1603085880000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ilmenau"
+lineNumber	"46"
+id	"2009118976866298655"
+rawId	"2009118976866298655-2010190738-1"
+mediumId	"2009118976866298655-2010190738"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81193"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Arnstadt Süd"
+7	
+name	"Plaue (Thür)"
+8	
+name	"Martinroda"
+9	
+name	"Geraberg"
+10	
+name	"Elgersburg"
+11	
+name	"Ilmenau-Roda"
+12	
+name	"Ilmenau Pörlitzer Höhe"
+13	
+name	"Ilmenau"
+destination	"Ilmenau"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+8615961487604461422-2010190844	
+o	"NZ"
+initialDeparture	1603089840000
+departure	
+scheduledTime	1603089840000
+time	1603089840000
+platform	"10"
+scheduledPlatform	"10"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Gera Hbf"
+lineNumber	"51"
+id	"8615961487604461422"
+rawId	"-8615961487604461422-2010190844-1"
+mediumId	"8615961487604461422-2010190844"
+substitute	false
+train	
+longDistance	false
+name	"RE 51"
+number	"52151"
+line	"51"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Jena West"
+showVia	true
+3	
+name	"Jena-Göschwitz"
+showVia	true
+4	
+name	"Stadtroda"
+5	
+name	"Hermsdorf-Klosterlausnitz"
+6	
+name	"Gera Hbf"
+destination	"Gera Hbf"
+platform	"10"
+scheduledPlatform	"10"
+auslastung	false
+reihung	false
+hiddenReihung	true
+7426840100819786819-2010190616	
+o	"8004NT"
+initialDeparture	1603080960000
+arrival	
+scheduledTime	1603087620000
+time	1603087620000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603087800000
+time	1603087860000
+platform	"1"
+scheduledPlatform	"1"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Göttingen"
+lineNumber	"1"
+id	"7426840100819786819"
+rawId	"7426840100819786819-2010190616-13"
+mediumId	"7426840100819786819-2010190616"
+substitute	false
+train	
+longDistance	false
+name	"RE 1"
+number	"3944"
+line	"1"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Greiz"
+1	
+name	"Neumühle (Elster)"
+2	
+name	"Berga (Elster)"
+3	
+name	"Wünschendorf"
+4	
+name	"Gera-Zwötzen"
+5	
+name	"Gera Süd"
+6	
+name	"Gera Hbf"
+7	
+name	"Hermsdorf-Klosterlausnitz"
+8	
+name	"Stadtroda"
+9	
+name	"Jena-Göschwitz"
+10	
+name	"Jena West"
+11	
+name	"Weimar"
+12	
+name	"Erfurt Hbf"
+cancelled	false
+13	
+name	"Neudietendorf"
+showVia	true
+14	
+name	"Gotha"
+showVia	true
+15	
+name	"Bad Langensalza"
+showVia	true
+16	
+name	"Mühlhausen (Thür)"
+17	
+name	"Leinefelde"
+18	
+name	"Heilbad Heiligenstadt"
+19	
+name	"Göttingen"
+destination	"Göttingen"
+platform	"1"
+scheduledPlatform	"1"
+auslastung	false
+reihung	false
+hiddenReihung	true
+2501648976251647314-2010190838	
+o	"SB"
+initialDeparture	1603089480000
+departure	
+scheduledTime	1603089480000
+time	1603089480000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ilmenau"
+lineNumber	"46"
+id	"2501648976251647314"
+rawId	"2501648976251647314-2010190838-1"
+mediumId	"2501648976251647314-2010190838"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81195"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Arnstadt Süd"
+7	
+name	"Plaue (Thür)"
+8	
+name	"Martinroda"
+9	
+name	"Geraberg"
+10	
+name	"Elgersburg"
+11	
+name	"Ilmenau-Roda"
+12	
+name	"Ilmenau Pörlitzer Höhe"
+13	
+name	"Ilmenau"
+destination	"Ilmenau"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+5509759771891708756-2010190938	
+o	"SB"
+initialDeparture	1603093080000
+departure	
+scheduledTime	1603093080000
+time	1603093080000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ilmenau"
+lineNumber	"46"
+id	"5509759771891708756"
+rawId	"5509759771891708756-2010190938-1"
+mediumId	"5509759771891708756-2010190938"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81197"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Arnstadt Süd"
+7	
+name	"Plaue (Thür)"
+8	
+name	"Martinroda"
+9	
+name	"Geraberg"
+10	
+name	"Elgersburg"
+11	
+name	"Ilmenau-Roda"
+12	
+name	"Ilmenau Pörlitzer Höhe"
+13	
+name	"Ilmenau"
+destination	"Ilmenau"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+5587501995840217860-2010190705	
+o	"80"
+initialDeparture	1603083900000
+arrival	
+scheduledTime	1603095840000
+time	1603095840000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	0
+departure	
+scheduledTime	1603096320000
+time	1603096320000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	0
+productClass	"F"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ostseebad Binz"
+id	"5587501995840217860"
+rawId	"5587501995840217860-2010190705-6"
+mediumId	"5587501995840217860-2010190705"
+substitute	false
+train	
+longDistance	true
+name	"ICE 1710"
+number	"1710"
+type	"ICE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"München Hbf"
+1	
+name	"Augsburg Hbf"
+2	
+name	"Donauwörth"
+3	
+name	"Nürnberg Hbf"
+4	
+name	"Bamberg"
+5	
+name	"Erfurt Hbf"
+cancelled	false
+6	
+name	"Halle (Saale) Hbf"
+showVia	true
+7	
+name	"Bitterfeld"
+8	
+name	"Berlin Südkreuz"
+9	
+name	"Berlin Hbf  (tief)"
+showVia	true
+10	
+name	"Berlin Gesundbrunnen"
+11	
+name	"Eberswalde Hbf"
+showVia	true
+12	
+name	"Angermünde"
+13	
+name	"Prenzlau"
+14	
+name	"Pasewalk"
+15	
+name	"Anklam"
+16	
+name	"Züssow"
+17	
+name	"Greifswald"
+18	
+name	"Stralsund Hbf"
+19	
+name	"Bergen auf Rügen"
+20	
+name	"Ostseebad Binz"
+destination	"Ostseebad Binz"
+platform	"9"
+scheduledPlatform	"9"
+auslastung	true
+reihung	true
+hiddenReihung	false
+6656065705739340967-2010191038	
+o	"SB"
+initialDeparture	1603096680000
+departure	
+scheduledTime	1603096680000
+time	1603096680000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ilmenau"
+lineNumber	"46"
+id	"6656065705739340967"
+rawId	"-6656065705739340967-2010191038-1"
+mediumId	"6656065705739340967-2010191038"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81199"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Arnstadt Süd"
+7	
+name	"Plaue (Thür)"
+8	
+name	"Martinroda"
+9	
+name	"Geraberg"
+10	
+name	"Elgersburg"
+11	
+name	"Ilmenau-Roda"
+12	
+name	"Ilmenau Pörlitzer Höhe"
+13	
+name	"Ilmenau"
+destination	"Ilmenau"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false
+8090619804583308973-2010191050	
+o	"8004NT"
+initialDeparture	1603097400000
+departure	
+scheduledTime	1603097400000
+time	1603097400000
+platform	"8a"
+scheduledPlatform	"8a"
+hidden	false
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Greiz"
+lineNumber	"3"
+id	"8090619804583308973"
+rawId	"8090619804583308973-2010191050-1"
+mediumId	"8090619804583308973-2010191050"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3927"
+line	"3"
+type	"RE"
+messages	
+qos	[]
+delay	[]
+him	[]
+route	
+0	
+name	"Erfurt Hbf"
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Jena West"
+showVia	true
+3	
+name	"Jena-Göschwitz"
+4	
+name	"Stadtroda"
+5	
+name	"Hermsdorf-Klosterlausnitz"
+6	
+name	"Gera Hbf"
+showVia	true
+7	
+name	"Gera Süd"
+8	
+name	"Gera-Zwötzen"
+9	
+name	"Wünschendorf"
+10	
+name	"Berga (Elster)"
+11	
+name	"Neumühle (Elster)"
+12	
+name	"Greiz"
+destination	"Greiz"
+platform	"8a"
+scheduledPlatform	"8a"
+auslastung	false
+reihung	false
+hiddenReihung	true
+6155929156448577754-2010190651	
+o	"8004NT"
+initialDeparture	1603083060000
+departure	
+scheduledTime	1603083060000
+time	1603083120000
+platform	"9"
+scheduledPlatform	"9"
+hidden	false
+cancelled	false
+delay	1
+productClass	"N"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Greiz"
+lineNumber	"3"
+id	"6155929156448577754"
+rawId	"-6155929156448577754-2010190651-1"
+mediumId	"6155929156448577754-2010190651"
+substitute	false
+train	
+longDistance	false
+name	"RE 3"
+number	"3923"
+line	"3"
+type	"RE"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Weimar"
+showVia	true
+2	
+name	"Jena West"
+showVia	true
+3	
+name	"Jena-Göschwitz"
+4	
+name	"Stadtroda"
+5	
+name	"Hermsdorf-Klosterlausnitz"
+6	
+name	"Gera Hbf"
+showVia	true
+7	
+name	"Gera Süd"
+8	
+name	"Gera-Zwötzen"
+9	
+name	"Wünschendorf"
+10	
+name	"Berga (Elster)"
+11	
+name	"Neumühle (Elster)"
+12	
+name	"Greiz"
+destination	"Greiz"
+platform	"9"
+scheduledPlatform	"9"
+auslastung	false
+reihung	false
+hiddenReihung	true
+829216817547966801-2010190638	
+o	"SB"
+initialDeparture	1603082280000
+departure	
+scheduledTime	1603082280000
+time	1603082280000
+platform	"7"
+scheduledPlatform	"7"
+hidden	false
+cancelled	false
+delay	0
+productClass	"D"
+currentStation	
+title	"Erfurt Hbf"
+id	"8010101"
+scheduledDestination	"Ilmenau"
+lineNumber	"46"
+id	"829216817547966801"
+rawId	"-829216817547966801-2010190638-1"
+mediumId	"829216817547966801-2010190638"
+substitute	false
+train	
+longDistance	false
+name	"STB 46"
+number	"81191"
+line	"46"
+type	"STB"
+messages	
+delay	[]
+qos	[]
+him	[]
+cancelled	false
+route	
+0	
+name	"Erfurt Hbf"
+cancelled	false
+1	
+name	"Erfurt-Bischleben"
+showVia	true
+2	
+name	"Neudietendorf"
+showVia	true
+3	
+name	"Sülzenbrücken"
+4	
+name	"Haarhausen"
+5	
+name	"Arnstadt Hbf"
+showVia	true
+6	
+name	"Arnstadt Süd"
+7	
+name	"Plaue (Thür)"
+8	
+name	"Martinroda"
+9	
+name	"Geraberg"
+10	
+name	"Elgersburg"
+11	
+name	"Ilmenau-Roda"
+12	
+name	"Ilmenau Pörlitzer Höhe"
+13	
+name	"Ilmenau"
+destination	"Ilmenau"
+platform	"7"
+scheduledPlatform	"7"
+auslastung	false
+reihung	false
+hiddenReihung	false

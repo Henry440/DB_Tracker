@@ -43,7 +43,7 @@ class manager():
                 else:
                     handler = parser(content, x.station)
                     try:
-                        handler.manage()
+                        datas = handler.manage()
                     except Exception as e:
                         self.LOGGER.log(f"Fehler beim Verarbeiten : {e}", 2)
             self.zyklus = self.zyklus + 1

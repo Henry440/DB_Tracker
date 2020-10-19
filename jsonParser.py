@@ -1,5 +1,5 @@
 from logger import logger
-from files.configs import TAG_ABFAHRT, TAG_ANKUNFT, TAG_GENERAL, TAGS
+from files.configs import TAG_ZUG, TAG_ABFAHRT, TAG_ANKUNFT, TAG_GENERAL, TAGS
 
 import json
 
@@ -15,12 +15,25 @@ class parser():
         if(len(self.zuege) == 0):
             self.LOGGER.log(str(content))
 
-    def fixMissing(self, tag, datas):
+    def fixMissing(self, tag):
         ret = []
+        for i in range(len(tag[1])):
+            ret.append("NA")
+            i = i
         return ret
 
     def getKeys(self, tag, zug):
         ret = []
+        if(tag[0] != []):
+            try:
+                zug = zug[tag[0][0]]
+            except Exception as e:
+                return self.fixMissing(tag)#Der Headdertag existiert nicht!!!!, Alles als NA buchen
+        for i in tag[1]:
+            try:
+                ret.append(zug[i])
+            except Exception:
+                ret.append("NA")
         return ret
 
     def manage(self):
@@ -30,7 +43,7 @@ class parser():
             for i in TAGS:
                 datas = []
                 datas = self.getKeys(i, zug)
-                datas = self.fixMissing(i, datas)
                 for dat in datas:
                     zeile.append(dat)
             out.append(zeile)
+        return out
