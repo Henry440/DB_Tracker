@@ -10,11 +10,14 @@ class parser():
         self.name = name
         self.content = content["lookbehind"] #Alle Daten einer Station 
         self.zuege = []                      #Beinhaltet Daten sortiert nach zug
-        for i in self.content:
-            self.zuege.append(i)
+        try:
+            for i in self.content:
+                self.zuege.append(i)
+        except Exception as e:
+            self.LOGGER.log("Harter Fehler", 3)
+            self.LOGGER.log(str(e))
         self.LOGGER.log(f"Gefundene Abfahrten/Ankünfte {len(self.zuege)}",1)
-        if(len(self.zuege) == 0):
-            self.LOGGER.log(str(content))
+        
 
     def fixMissing(self, tag):
         ret = []
