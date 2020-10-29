@@ -8,6 +8,7 @@ class writer():
     def __init__(self, name):
         self.LOGGER = logger(f"WR {name}")
         self.conn = sqlite3.connect(DATABASE)
+        self.c = self.conn.cursor()
 
     def fileWriter(self, data):
         for x in data:
@@ -21,7 +22,13 @@ class writer():
             file.close
 
     def dbWriter(self, data):
-        pass
+        for zug in data:
+            ret = "NULL"
+            for i in zug:
+                ret = f"{ret}, '{i}'"
+            self.c.execute(f"INSERT INTO '{TABLE_NAME}' VALUES ({ret})")
+        self.conn.commit()
+
 
     def writer(self, data):
         self.LOGGER.log("Starte schreiben", 0)
