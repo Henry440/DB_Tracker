@@ -4,7 +4,11 @@ LOOK_BEHIND = 60 * 45
 
 # Stationsverwaltung
 STATIONEN = "files/stations.csv"
+
+# Writer
 OUTPUT = "out/Daten.csv"
+DATABASE = "out/database.db"
+TABLE_NAME = "halte"
 
 # JSON TAGGS
 # NAME = ([HEADDER KEY], [[KEY 1], [KEY 2], [KEY 3], ...., [KEY N]])
