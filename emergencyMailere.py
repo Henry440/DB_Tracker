@@ -25,7 +25,7 @@ def mail2():
 <p>
   Es könnte sonst zu einem Datenverlust kommen. 
 </p>
-<p>Der Befehl für den SSH zugang von extern ist :<br> ssh pi@henry440 -p 60610</p>
+<p>Der Befehl für den SSH zugang von extern ist :<br> ssh nnnnn@nnnnn.de/p>
 <br>
 <p>
   Solltest du nicht der genannte Empfänger oli*****.a******@gmail.com sein, bitte ich dich diese E-Mail umgehend zu löschen!
